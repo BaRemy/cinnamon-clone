@@ -225,7 +225,6 @@ button.nav-button:hover{
     background-color: #F1F6F5;
     display: flex;
     gap: 10%;
-    margin-right: 130px;
     padding: 120px;
 }
 .team-title{
@@ -250,4 +249,8 @@ button.nav-button:hover{
 }
 .team-par{
     color: #5F7161;
+}
+.team-logo{
+    margin-left: -10%;
+    margin-top: 10%;
 }
