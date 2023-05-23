@@ -220,3 +220,34 @@ button.nav-button:hover{
     color: #2F58CD;
     transition: .5s;
 }
+/* Team styles */
+.team{
+    background-color: #F1F6F5;
+    display: flex;
+    gap: 10%;
+    margin-right: 130px;
+    padding: 120px;
+}
+.team-title{
+    margin-left: 25px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.team-btn{
+    background-color: rgba(62, 62, 201, 0.973);
+    border: none;
+    color: white;
+    height: 45px;
+    width: 170px;
+    font-size: 17px;
+    margin-top: 130px;    
+}
+.team-btn:hover{
+    background-color: white;
+    color: #2F58CD;
+    transition: .5s;
+    border: 1.5px #2F58CD solid;
+}
+.team-par{
+    color: #5F7161;
+}
